@@ -29,7 +29,7 @@ Para isso, primeiro verificamos se há algum container ativo utilizando o comand
 Deve aparecer algo assim:
 
 
-![Captura de tela 2026-04-16 212710](2.png)
+![Captura de tela 2026-04-16 212710](1.png)
 
 
 Isso indica que não a nenhum conteiner ativo.
@@ -41,7 +41,7 @@ Para ativar, usaremos os seguintes comandos:
 com isso lista todas os container ativos e não ativos.
 
 
-![Captura de tela 2026-04-16 213535](./3.png)
+![Captura de tela 2026-04-16 213535](./2.png)
 
 
 Verificamos que o conteiner criado não esta iniciado.
@@ -59,7 +59,7 @@ Para acessar a maquina usaremos esse comando:
 Apos a execução desse comando, você estará dentro da maquina, como nosso terminal é de adm já entramos como root, tendo acesso total a todos os comandos de super ursuario
 
 
-![Captura de tela 2026-04-16 214531](./1.png)
+![Captura de tela 2026-04-16 214531](./3.png)
 
 
 Para a segundo container é só repetir todo o passo a passo e mudar o final no nome da maquina igual aqui.
